@@ -12,6 +12,7 @@ bleach==6.4.0
 certifi==2026.6.17
 cffi==2.0.0
 charset-normalizer==3.4.7
+cmdstanpy==1.3.0
 comm==0.2.3
 contourpy==1.3.3
 cycler==0.12.1
@@ -23,9 +24,11 @@ fastjsonschema==2.21.2
 fonttools==4.63.0
 fqdn==1.5.1
 h11==0.16.0
+holidays==0.100
 httpcore==1.0.9
 httpx==0.28.1
 idna==3.18
+importlib_resources==7.1.0
 ipykernel==7.3.0
 ipython==9.14.1
 ipython_pygments_lexers==1.1.1
@@ -72,6 +75,7 @@ pillow==12.2.0
 platformdirs==4.10.0
 prometheus_client==0.25.0
 prompt_toolkit==3.0.52
+prophet==1.3.0
 psutil==7.2.2
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -93,9 +97,11 @@ Send2Trash==2.1.0
 six==1.17.0
 soupsieve==2.8.4
 stack-data==0.6.3
+stanio==0.5.1
 terminado==0.18.1
 tinycss2==1.5.1
 tornado==6.5.7
+tqdm==4.68.4
 traitlets==5.15.1
 typing_extensions==4.15.0
 tzdata==2026.2
